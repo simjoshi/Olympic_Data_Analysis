@@ -2,6 +2,8 @@
 
 Welcome to the **Paris 2024 Olympic Summer Games Data Analysis** repository! This project provides insights and visualizations from the dataset of the Paris 2024 Summer Olympics, covering everything from athletes and events to medal standings and venue details.
 
+**Note**: This project has been developed for **academic purposes** as part of the **Programming in Analytics (Python) subject**.  
+
 ---
 
 ## 📂 Dataset Overview  
