@@ -1,2 +1,48 @@
-# Olympic_Data_Analysis
-This repository provides an in-depth analysis of the Paris 2024 Olympic Summer Games dataset. The dataset captures comprehensive information about the events, participants, and outcomes of the Summer Olympics, offering valuable insights into one of the most prestigious global sporting events.
+# Paris 2024 Olympic Summer Games Data Analysis  
+
+Welcome to the **Paris 2024 Olympic Summer Games Data Analysis** repository! This project provides insights and visualizations from the dataset of the Paris 2024 Summer Olympics, covering everything from athletes and events to medal standings and venue details.
+
+---
+
+## 📂 Dataset Overview  
+
+The dataset was updated daily during the games and includes:  
+
+| File Name              | Description                                             | Status    |
+|------------------------|---------------------------------------------------------|-----------|
+| `athletes.csv`         | Personal details of all participating athletes.         | Released  |
+| `coaches.csv`          | Information about all coaches.                          | Released  |
+| `events.csv`           | List of all events held during the Olympics.            | Released  |
+| `medals.csv`           | Details of all medal holders.                           | Released  |
+| `medals_total.csv`     | Medal standings grouped by country.                     | Released  |
+| `medalists.csv`        | Comprehensive data on medalists.                        | Released  |
+| `nocs.csv`             | NOC codes, short names, and full country names.         | Released  |
+| `schedule.csv`         | Daily schedule of events.                               | Released  |
+| `schedule_preliminary.csv` | Preliminary schedule of all events.                  | Released  |
+| `teams.csv`            | Information on all participating teams.                 | Released  |
+| `technical_officials.csv` | Details of referees, judges, and other officials.     | Released  |
+| `results.csv`          | Results of all events.                                  | Released  |
+| `torch_route.csv`      | Places visited during the torch relay.                  | Released  |
+| `vanues.csv`           | Information about all Olympic venues.                   | Released  |
+
+---
+
+## 🎯 Objectives  
+
+This project aims to:  
+1. Analyze **medal trends** and **country performances**.  
+2. Identify **patterns in athlete participation** and team compositions.  
+3. Explore **event schedules** and their impact on outcomes.  
+4. Map the **torch relay route** and its cultural significance.  
+5. Visualize **Olympic venues** and their utilization.  
+
+---
+
+## 🔍 How to Use  
+
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/yourusername/paris-2024-olympic-analysis.git
+   cd paris-2024-olympic-analysis
+
+
