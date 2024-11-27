@@ -30,10 +30,9 @@ The dataset was updated daily during the games and includes:
 ## 🎯 Objectives  
 
 This project aims to:  
-1. Analyze **medal trends** and **country performances**.  
-2. Identify **patterns in athlete participation** and team compositions.  
-3. Explore **event schedules** and their impact on outcomes.  
-4. Map the **torch relay route** and its cultural significance.  
+1. Analyze the importance of **coaches**  
+2. Identify **patterns in coach contribution**   
+3. Explore how **venues** affect an event and athlete participation    
 5. Visualize **Olympic venues** and their utilization.  
 
 ---
